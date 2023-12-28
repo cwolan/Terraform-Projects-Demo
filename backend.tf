@@ -4,7 +4,7 @@ terraform {
     bucket = "asalu123"
     key    = "nexgen-prod.tfstate"
     region = "us-east-1"
-    
-    
+
+
   }
 }
